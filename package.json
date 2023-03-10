@@ -1,0 +1,27 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT Photo App",
+  "main": "app.js",
+  "scripts": {
+    "test": "node start "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erenyata/Project-PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "erenay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erenyata/Project-PCAT/issues"
+  },
+  "homepage": "https://github.com/erenyata/Project-PCAT#readme",
+  "devDependencies": {
+    "prettier": "2.8.4"
+  }
+}
